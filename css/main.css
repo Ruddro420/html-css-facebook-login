@@ -1,0 +1,58 @@
+.content p{
+    font-size: 45px;
+    margin-top: -10px;
+    padding-left: 25px;
+}
+
+.form-input input{
+    width: 300px;
+    padding: 20px;
+    margin-top: 20px;
+    border: 2px solid #0866ff;
+    border-radius: 6px;
+    font-size: 18px;
+}
+.login-button button{
+    background: #0866ff;
+    color: white;
+    border: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    border-radius: 6px;
+    margin-top: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.create-account button{
+    background: #33ff00;
+    color: white;
+    border: none;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    border-radius: 6px;
+    margin-top: 20px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 150px;
+}
+.left-side{
+    width: 50%;
+}
+.right-side{
+    border: 2px solid #0866ff;
+    padding: 30px;
+    border-radius: 6px;
+    text-align: center;
+    box-shadow: 10px 10px 50px rgb(2, 137, 255);
+}
